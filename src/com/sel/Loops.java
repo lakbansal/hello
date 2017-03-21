@@ -3,7 +3,7 @@ package com.sel;
 public class Loops {
 	public static void main(String [] args)
 	{
-      int i=2;
+      int i=10;
 		for (int j=2;j<=20;j=j+2)
 		{
 			System.out.println(j);
